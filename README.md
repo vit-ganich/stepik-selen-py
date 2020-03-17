@@ -5,5 +5,5 @@ https://stepik.org/course/575/syllabus
 ### About the course:  
 This is a basic course for beginner testers, where you will learn how  
 to write automated UI-tests in the Python programming language using  
-the Selenium library. We will cover popular practices and good practice  
-for writing autotests.  
+the Selenium library. 
+We will cover popular frameworks and best practices for writing automated tests.
